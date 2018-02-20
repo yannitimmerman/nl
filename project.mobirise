@@ -38,7 +38,7 @@
       ]
     },
     "favicon": "",
-    "noImageResize": "true",
+    "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": ""
   },
