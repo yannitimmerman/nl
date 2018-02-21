@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Yanni Timmerman Portfolio",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 181,
     "versionPublish": "4.3.0",
@@ -27,7 +27,7 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
@@ -40,7 +40,7 @@
     "favicon": "",
     "noImageResize": "true",
     "google-analytics": "",
-    "cookiesAlert": ""
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
